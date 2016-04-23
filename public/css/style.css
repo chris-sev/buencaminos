@@ -438,12 +438,8 @@ section {
 	background: #d6516d;
 	border-radius: 8px;
 	color: #222;
-	margin-right: -470px;
-	padding: 50px;
-	position: absolute;
-	right: 50%;
-	top: 50px;
-	width: 400px;
+	padding: 50px 50px 50px 100px;
+	width: 500px;
 	z-index: 100;
 }
 
@@ -524,11 +520,6 @@ footer {
 	#facts h3 {
 		font-size: 80px;
 	}
-
-	#rsvp {
-		margin-right: -560px;
-	}
-
 }
 
 /* Medium devices (desktops, 992px and up)
