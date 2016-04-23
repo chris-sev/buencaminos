@@ -509,12 +509,12 @@
 					// Create a new StyledMapType object, passing it the array of styles,
 					// as well as the name to be displayed on the map type control.
 					var styledMap = new google.maps.StyledMapType(styles,
-					{name: "Styled Map"});
+					{name: "Wedding Map"});
 
 					var mapOptions = {
 						scrollwheel: false,
 						zoom: 12,
-						center: new google.maps.LatLng(23.135165, -82.369966),
+						center: new google.maps.LatLng(32.7232167, -117.1524129),
 						mapTypeControlOptions: {
 							mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
 						}
@@ -529,9 +529,8 @@
 				}
 
 				var places = [
-					['Wedding<br>Street Name 1<br>Havana, Cuba', 23.129719, -82.396831, 1],
-					['Bachelor Party<br>Street Name 2<br>Havana, Cuba', 23.135165, -82.369966, 1],
-					['Bachelorette Party<br>Street Name 3<br>Havana, Cuba', 23.118747, -82.432537, 1]
+					['Wedding Reception<br>The Prado at Balboa Park<br>1549 El Prado<br>San Diego, CA', 32.7244787, -117.1516355, 1],
+					['Wedding Ceremony<br>St. Paul\'s Cathedral<br>2728 6th Ave<br>San Diego, CA', 32.7275531, -117.1624669, 1]
 				];
 
 				function setMarkers(map, locations) {
