@@ -3436,3 +3436,9 @@ span.cents        { display:none; }
   border-bottom:none !important;
   background:none !important;
 }
+#ccSection .right {
+  float:none !important;
+}
+#ccSection img {
+  margin-bottom:10px;
+}
