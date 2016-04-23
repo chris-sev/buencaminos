@@ -535,11 +535,9 @@ footer {
 	#facts h3 {
 		font-size: 50px;
 	}
-
-	#rsvp {
-		margin-right: -360px;
+	.navbar-toggle {
+		margin-right:50px;
 	}
-
 }
 
 /* Small devices (tablets, 768px and up)
