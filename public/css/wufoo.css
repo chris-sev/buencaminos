@@ -3401,3 +3401,17 @@ span.cents        { display:none; }
   border-radius:5px;
   color:#FFF;
 }
+
+// CREDIT CARD STUFF
+#ppSection, #ccSection    {
+  background:none !important;  
+  border:none !important;
+}
+
+#payment .desc  {
+  width:100%;
+}
+
+.leftLabel li div, .rightLabel li div {
+  width:100%;
+}
