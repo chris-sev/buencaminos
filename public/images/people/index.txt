@@ -6,7 +6,7 @@
 		<meta name="description" content="Perfect Couple. Single page responsive wedding site theme.">
 		<meta name="author" content="Coffeecream Themes, info@coffeecream.eu">
 		<title>Perfect Couple. Single page responsive wedding site theme.</title>
-		<link rel="shortcut icon" href="images/favicon.png">
+		
 
 		<!-- Pace Loader -->
 		<script src="js/pace.min.js"></script>
@@ -97,7 +97,7 @@
 							</ul>
 						</li>
 						<li><a href="#events">Events</a></li>
-						<li><a href="#accommodation">Accommodation</a></li>
+						<!--<li><a href="#accommodation">Accommodation</a></li>-->
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
 							<ul class="dropdown-menu">
@@ -107,7 +107,7 @@
 							</ul>
 						</li>
 						<li><a href="#gallery">Gallery</a></li>
-						<li><a href="#rsvp">RSVP</a></li>
+						<!--<li><a href="#rsvp">RSVP</a></li>-->
 					</ul>
 				</div>
 			</div>
