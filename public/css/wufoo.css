@@ -3393,3 +3393,11 @@ input[type=email] {
 }
 span.symbol.radix { display:none; }
 span.cents        { display:none; }
+
+#errorLi, .error-container  {
+  background:none !important;
+  border:rgba(255, 255, 255, 0.8) !important;
+  padding:15px 20px;
+  border-radius:5px;
+  color:#FFF;
+}
