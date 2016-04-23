@@ -3386,6 +3386,8 @@ form > header   {
   height: auto;
 }
 .wufoo li,
-form li.buttons { 
+form li.buttons,
+input[type=text],
+input[type=email] { 
   width:100% !important;
 }
