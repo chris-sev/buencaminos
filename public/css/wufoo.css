@@ -3428,3 +3428,11 @@ span.cents        { display:none; }
 .noI .leftLabel .buttons, .noI .rightLabel .buttons {
   padding-left:0 !important;
 }
+.noI .leftLabel .buttons div, .noI .rightLabel .buttons div {
+  margin-left:0 !important;
+}
+
+#ppSection, #ccSection {
+  border-bottom:none !important;
+  background:none !important;as
+}
