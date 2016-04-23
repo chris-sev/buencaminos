@@ -3391,3 +3391,5 @@ input[type=text],
 input[type=email] { 
   width:100% !important;
 }
+span.symbol.radix { display:none; }
+span.cents        { display:none; }

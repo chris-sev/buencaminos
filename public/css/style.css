@@ -438,9 +438,10 @@ section {
 	background: #d6516d;
 	border-radius: 8px;
 	color: #222;
-	padding: 50px;
-	width: 500px;
+	padding: 50px 50px 75px 50px;
+	width: 400px;
 	z-index: 100;
+	margin:0 auto;
 }
 
 #rsvp .heading {
