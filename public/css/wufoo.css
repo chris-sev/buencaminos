@@ -3403,7 +3403,7 @@ span.cents        { display:none; }
 }
 
 // CREDIT CARD STUFF
-#ppSection, #ccSection    {
+#payment #ppSection, #payment #ccSection    {
   background:none !important;  
   border:none !important;
 }
@@ -3414,4 +3414,8 @@ span.cents        { display:none; }
 
 .leftLabel li div, .rightLabel li div {
   width:100%;
+}
+
+.invoice th, .invoice td {
+  color:#FFF;
 }
