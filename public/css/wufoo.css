@@ -3385,6 +3385,7 @@ form > header   {
   padding-top: 20px;
   height: auto;
 }
-.wufoo li { 
+.wufoo li,
+form li.buttons { 
   width:100% !important;
 }
