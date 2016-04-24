@@ -170,8 +170,8 @@ section {
 
 @media screen and (max-width:468px) {
 	.navbar-brand 	{
-		font-size:35px;
-		padding-top:34px;
+		font-size:35px !important;
+		padding-top:34px !important;
 	}
 }
 
