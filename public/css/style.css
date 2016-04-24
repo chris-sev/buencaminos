@@ -169,9 +169,6 @@ section {
 }
 
 @media screen and (max-width:468px) {
-	.navbar-header {
-		padding-top:15px !important;
-	}
 	.navbar-brand 	{
 		font-size:35px !important;
 		padding-top:34px !important;
