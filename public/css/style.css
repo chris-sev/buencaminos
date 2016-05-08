@@ -662,5 +662,13 @@ footer {
 		top: auto;
 		width: 100%;
 	}
+}
 
+@media screen and (max-width:468px) {
+	#people .img-circle {
+		width:200px;
+		height:200px;
+		margin-left:auto;
+		margin-right:auto;	
+	}
 }
