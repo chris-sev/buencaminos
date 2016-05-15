@@ -46,7 +46,7 @@
 
 		// Countdown
 
-		var weddingDate = new Date();
+		var weddingDate = new Date("December 16, 2016");
 		var weddingDate = new Date(weddingDate.getFullYear() + 1, 1 - 1, 1);
 		$(".countdown").countdown({
 			until: weddingDate,
